@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": "b7c6",
+      "headline": "PM",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "best",
+      "authorname": "Bhavya"
+    },
+    {
+      "id": "d523",
+      "headline": "PM",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "best",
+      "authorname": "Bhavya"
+    },
+    {
+      "id": "f9ea",
+      "headline": "PM",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "best",
+      "authorname": "Bhavya"
+    },
+    {
+      "id": "9c52",
+      "headline": "PM",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "best",
+      "authorname": "Bhavya"
+    },
+    {
+      "id": "dd6a",
+      "headline": "PM",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "best",
+      "authorname": "Bhavya"
+    },
+    {
+      "id": "d01c",
+      "headline": "PM",
+      "image": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg",
+      "description": "best",
+      "authorname": "Bhavya"
+    }
+  ]
+}
